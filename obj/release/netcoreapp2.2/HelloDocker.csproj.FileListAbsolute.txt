@@ -1,0 +1,14 @@
+D:\calisma\piran\WebApplication1\HelloDocker\bin\release\netcoreapp2.2\HelloDocker.deps.json
+D:\calisma\piran\WebApplication1\HelloDocker\bin\release\netcoreapp2.2\HelloDocker.runtimeconfig.json
+D:\calisma\piran\WebApplication1\HelloDocker\bin\release\netcoreapp2.2\HelloDocker.runtimeconfig.dev.json
+D:\calisma\piran\WebApplication1\HelloDocker\bin\release\netcoreapp2.2\HelloDocker.dll
+D:\calisma\piran\WebApplication1\HelloDocker\bin\release\netcoreapp2.2\HelloDocker.pdb
+D:\calisma\piran\WebApplication1\HelloDocker\obj\release\netcoreapp2.2\HelloDocker.csprojAssemblyReference.cache
+D:\calisma\piran\WebApplication1\HelloDocker\obj\release\netcoreapp2.2\HelloDocker.csproj.CoreCompileInputs.cache
+D:\calisma\piran\WebApplication1\HelloDocker\obj\release\netcoreapp2.2\HelloDocker.RazorAssemblyInfo.cache
+D:\calisma\piran\WebApplication1\HelloDocker\obj\release\netcoreapp2.2\HelloDocker.RazorAssemblyInfo.cs
+D:\calisma\piran\WebApplication1\HelloDocker\obj\release\netcoreapp2.2\HelloDocker.AssemblyInfoInputs.cache
+D:\calisma\piran\WebApplication1\HelloDocker\obj\release\netcoreapp2.2\HelloDocker.AssemblyInfo.cs
+D:\calisma\piran\WebApplication1\HelloDocker\obj\release\netcoreapp2.2\HelloDocker.RazorTargetAssemblyInfo.cache
+D:\calisma\piran\WebApplication1\HelloDocker\obj\release\netcoreapp2.2\HelloDocker.dll
+D:\calisma\piran\WebApplication1\HelloDocker\obj\release\netcoreapp2.2\HelloDocker.pdb
